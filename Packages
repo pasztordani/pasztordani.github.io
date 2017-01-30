@@ -1,12 +1,12 @@
-Package: com.danipasztor.Csr
-Name: CsrRacing2
-Version: 1.0
+Package: com.csr2cehat.pasztordani
+Name: Csr Racing 2 Cheats
+Version: 1.9.0
+Size: 177 KB
 Architecture: iphoneos-arm
-Description: Csr racing 2 cheats
-Homepage: http//danipasztor.ga
-Depiction: mobilesubstrate
-Maintainer: danis <you@example.com>
-Author: Jay Freeman (saurik) <danispot13@gmail.com
-Sponsor: Microsoft <http://www.microsoft.com/>
+Description: Infinity keys,money
+Maintainer: KingKong
+Author: iOSGods
 Section: Tweaks
-Filename: ./debs/csrracing2.deb
+MD5sum: ab6e49259996f020aa7e406cd203d5c5
+SHA1sum: e0f9c68825ea24f9e245e5da0437aae75e079eff
+Filename: debs//Csr Racing 2 Cheats.deb
