@@ -1,9 +1,0 @@
-Package: com.superp0s.infiniloader
-Name: Infiniloader
-Depends: winterboard
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A beautiful winterboard
-Maintainer: superp0s
-Author: superp0s
-Section: Themes (SpringBoard)
