@@ -8,5 +8,5 @@ Maintainer: KingKong
 Author: KingKong
 Section: Tweaks
 Filename: ./debs/csrracing2.deb
-Size: 181930
+Installed-Size: 1184
 MD5Sum: ab6e49259996f020aa7e406cd203d5c5
