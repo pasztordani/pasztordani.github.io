@@ -1,4 +1,4 @@
-Package: com.kk.csr2
+Package: com.pasztordani.csrracing2
  Name: CSR Racing 2 Cheats
  Depends: mobilesubstrate, preferenceloader
  Architecture: iphoneos-arm
@@ -6,7 +6,6 @@ Package: com.kk.csr2
  Maintainer: iOSGods.com
  Author: KingKong
  Section: Tweaks
- Homepage: https://iosgods.com
  Version: 1.9.0-4+debug
- Installed-Size: 1184
+ Installed-Size: 181930
  MD5Sum: ab6e49259996f020aa7e406cd203d5c5
