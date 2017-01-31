@@ -1,12 +1,12 @@
 Package: com.danipasztor.csrracing2
-Name: CsrRacing2
-Version: 1.0
+Name: Csr Racing 2 Cheats
+Version: 1.9.0-4+debug
 Architecture: iphoneos-arm
-Description: Csr racing 2 cheats
-Homepage: http//danipasztor.ga
+Description: Csr racing 2 crazy cheats
 Depiction: mobilesubstrate
-Maintainer: danis <you@example.com>
-Author: Jay Freeman (saurik) <danispot13@gmail.com
-Sponsor: Microsoft <http://www.microsoft.com/>
+Maintainer: KingKong
+Author: KingKong
 Section: Tweaks
 Filename: ./debs/csrracing2.deb
+Size: 1184
+MD5Sum: ab6e49259996f020aa7e406cd203d5c5
