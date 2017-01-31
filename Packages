@@ -2,11 +2,11 @@ Package: com.danipasztor.csrracing2
 Name: Csr Racing 2 Cheats
 Version: 1.9.0-4+debug
 Architecture: iphoneos-arm
-Description: Csr racing 2 crazy cheats
+Description: CSR Racing 2 Crazy Cheats
 Depiction: mobilesubstrate
 Maintainer: KingKong
 Author: KingKong
 Section: Tweaks
 Filename: ./debs/csrracing2.deb
-Size: 1184
+Size: 181930
 MD5Sum: ab6e49259996f020aa7e406cd203d5c5
